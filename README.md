@@ -1,4 +1,4 @@
-# Serve 671B DeepSeek-R1 on your local!
+# Serve 671B DeepSeek-R1 on your local! 
 Here, we provide a comprehensive guide on serving the 671B DeepSeek-R1 model on a local GPU setup from start to finish.
 All you need are 2 A100 GPUs to get started.
 Follow the steps below to serve the 671B DeepSeek-R1 model.
